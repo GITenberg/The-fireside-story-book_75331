@@ -1,0 +1,28 @@
+_repo: The-fireside-story-book_75331
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: https://en.wikipedia.org/wiki/Maria_Edgeworth
+description: ''
+gutenberg_issued: '2025-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75331'
+language: en
+pgterms:marc905: 20250106074450edgeworth
+pgterms:marc906: '1847'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bGeo. S. Appleton, $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The fireside story book
+url: http://www.gutenberg.org/ebooks/75331
