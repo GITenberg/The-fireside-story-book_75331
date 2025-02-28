@@ -1,5 +1,8 @@
 _repo: The-fireside-story-book_75331
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edgeworth, Maria
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/630
     wikipedia: https://en.wikipedia.org/wiki/Maria_Edgeworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75331#The-fireside-story-book
 gutenberg_issued: '2025-02-10'
 gutenberg_type: Text
 identifiers:
